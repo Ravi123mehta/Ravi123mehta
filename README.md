@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ravi123mehta
-- 👀 I’m interested in Web Development.
--  👀 And I’m also interested in Cybersecurity and Hacking.
-- 🌱 I’m currently learning MERN.
-- 💞️ I’m looking to collaborate on Front-End & Back-End Developer. 
+- 👀 I’m interested in CYBERSECURITY.
+- 👀 I’m interested in Cybersecurity and Hacking.
+- 🌱 I’m currently learning CYBERSECURITY.
+- 💞️ I’m looking to collaborate on CYBERSECURITY PROFESSINALS. 
 - 📫 How to reach me :- Email (rm8178749@gmail.com).
 - 😄 Pronouns: I AM A BOIIIIIIIII.........
 - ⚡ Fun fact: My-Self.
